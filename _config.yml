@@ -1,2 +1,2 @@
 # theme: minimal-mistakes-jekyll
-remote_theme: minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
