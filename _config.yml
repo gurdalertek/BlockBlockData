@@ -1,2 +1,4 @@
 # theme: minimal-mistakes-jekyll
 remote_theme: "minimal-mistakes"
+
+theme: jekyll-theme-cayman
