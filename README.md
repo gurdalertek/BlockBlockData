@@ -11,5 +11,12 @@ On this website, you can
 - purchase the Collectibles we created, by clicking the link right below the figures
 - or just Contact Us for any professional inquiry through firstnamelastname@gmail.com, where firstname is replaced with gurdal and lastname is replaced with ertek
 
+Sign up to receive updates and analyses from us in the future:
+
+<form action="https://formspree.io/f/xleojqvv" method="post">
+  <label for="email">Your Email</label>
+  <input name="Email" id="email" type="email">
+  <button type="submit">Submit</button>
+</form>
 
 
