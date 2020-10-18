@@ -13,8 +13,3 @@ We are a team of data science professionals, applying the principles, methods, a
   <input name="Email" id="email" type="email">
   <button type="submit">Submit</button>
 </form>
-
-<!-- On this website, you can
-- read our articles by clicking the article titles
-- purchase the Collectibles we created, by clicking the link right below the figures
-- or just Contact Us for any professional inquiry through firstnamelastname@gmail.com, where firstname is replaced with gurdal and lastname is replaced with ertek --!>
