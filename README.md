@@ -1,4 +1,4 @@
-Our recent projects:
+# Our recent projects:
 
 - [Medalla Data Challenge](https://blockblockdata.github.io/medalla-data-challenge/)
 
