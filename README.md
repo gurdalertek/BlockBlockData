@@ -1,6 +1,6 @@
 # Our recent projects:
 
-- [Medalla Data Challenge](https://blockblockdata.github.io/medalla-data-challenge/)
+[Medalla Data Challenge](https://blockblockdata.github.io/medalla-data-challenge/)
 - Finalist Presentations on November 5, 2020. Available under: https://www.youtube.com/watch?v=Gj7YMjBd1RQ  (57:06 - 1:19:15)
 - Challenge Description: https://ethereum.org/en/community/grants/medalla-data-challenge/
 - Challenge Results: https://blog.ethereum.org/2020/11/17/medalla-data-challenge-results/
